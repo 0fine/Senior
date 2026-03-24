@@ -1,0 +1,2947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+<key id="author" for="node" attr.name="author" attr.type="string"/>
+<key id="year" for="node" attr.name="year" attr.type="string"/>
+<key id="title" for="node" attr.name="title" attr.type="string"/>
+<key id="so" for="node" attr.name="so" attr.type="string"/>
+<key id="vol" for="node" attr.name="vol" attr.type="string"/>
+<key id="page" for="node" attr.name="pg" attr.type="string"/>
+<key id="ut" for="node" attr.name="ut" attr.type="string"/>
+<key id="freq" for="node" attr.name="freq" attr.type="integer"/>
+<key id="centrality" for="node" attr.name="centrality" attr.type="double"/>
+<key id="weight" for="edge" attr.name="weight" attr.type="float"/>
+<key id="slice" for="edge" attr.name="slice" attr.type="integer"/>
+<key id="year" for="edge" attr.name="year" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+  <data key="name">中国医学科学院北京协和医院护理部</data>
+  <data key="label">中国医学科学院北京协和医院护理部</data>
+  <data key="author">中国医学科学院北京协和医院护理部</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="1">
+  <data key="name">华侨大学旅游学院</data>
+  <data key="label">华侨大学旅游学院</data>
+  <data key="author">华侨大学旅游学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="2">
+  <data key="name">华中科技大学同济医学院附属同济医院药学部</data>
+  <data key="label">华中科技大学同济医学院附属同济医院药学部</data>
+  <data key="author">华中科技大学同济医学院附属同济医院药学部</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="3">
+  <data key="name">上海财经大学会计学院</data>
+  <data key="label">上海财经大学会计学院</data>
+  <data key="author">上海财经大学会计学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="4">
+  <data key="name">四川大学华西医院</data>
+  <data key="label">四川大学华西医院</data>
+  <data key="author">四川大学华西医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="5">
+  <data key="name">上海中医药大学交叉科学研究院</data>
+  <data key="label">上海中医药大学交叉科学研究院</data>
+  <data key="author">上海中医药大学交叉科学研究院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="6">
+  <data key="name">中国人民大学农业与农村发展学院</data>
+  <data key="label">中国人民大学农业与农村发展学院</data>
+  <data key="author">中国人民大学农业与农村发展学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="7">
+  <data key="name">北京大学第六医院北京大学精神卫生研究所国家卫生健康委员会精神卫生学重点实验室(北京大学)国家精神心理疾病临床医学研究中心</data>
+  <data key="label">北京大学第六医院北京大学精神卫生研究所国家卫生健康委员会精神卫生学重点实验室(北京大学)国家精神心理疾病临床医学研究中心</data>
+  <data key="author">北京大学第六医院北京大学精神卫生研究所国家卫生健康委员会精神卫生学重点实验室(北京大学)国家精神心理疾病临床医学研究中心</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="8">
+  <data key="name">四川大学华西医院呼吸与危重症医学科</data>
+  <data key="label">四川大学华西医院呼吸与危重症医学科</data>
+  <data key="author">四川大学华西医院呼吸与危重症医学科</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="9">
+  <data key="name">中国针灸学会</data>
+  <data key="label">中国针灸学会</data>
+  <data key="author">中国针灸学会</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="10">
+  <data key="name">北京体育大学</data>
+  <data key="label">北京体育大学</data>
+  <data key="author">北京体育大学</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="11">
+  <data key="name">上海市儿童医院(上海交通大学附属儿童医院)</data>
+  <data key="label">上海市儿童医院(上海交通大学附属儿童医院)</data>
+  <data key="author">上海市儿童医院(上海交通大学附属儿童医院)</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="12">
+  <data key="name">浙江省城市治理研究中心</data>
+  <data key="label">浙江省城市治理研究中心</data>
+  <data key="author">浙江省城市治理研究中心</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="13">
+  <data key="name">中国科学院地理科学与资源研究所</data>
+  <data key="label">中国科学院地理科学与资源研究所</data>
+  <data key="author">中国科学院地理科学与资源研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="14">
+  <data key="name">一带一路数据分析与决策支持北京市重点实验室</data>
+  <data key="label">一带一路数据分析与决策支持北京市重点实验室</data>
+  <data key="author">一带一路数据分析与决策支持北京市重点实验室</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="15">
+  <data key="name">深圳市人民政府“医疗卫生三名工程”广东省中医院符文彬教授团队</data>
+  <data key="label">深圳市人民政府“医疗卫生三名工程”广东省中医院符文彬教授团队</data>
+  <data key="author">深圳市人民政府“医疗卫生三名工程”广东省中医院符文彬教授团队</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="16">
+  <data key="name">北京中医药大学中医学院</data>
+  <data key="label">北京中医药大学中医学院</data>
+  <data key="author">北京中医药大学中医学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="17">
+  <data key="name">华中农业大学经济管理学院</data>
+  <data key="label">华中农业大学经济管理学院</data>
+  <data key="author">华中农业大学经济管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="18">
+  <data key="name">中国中医科学院西苑医院</data>
+  <data key="label">中国中医科学院西苑医院</data>
+  <data key="author">中国中医科学院西苑医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="19">
+  <data key="name">中山大学地理科学与规划学院</data>
+  <data key="label">中山大学地理科学与规划学院</data>
+  <data key="author">中山大学地理科学与规划学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="20">
+  <data key="name">中国医学科学院北京协和医学院群医学及公共卫生学院流行病与卫生统计教研室</data>
+  <data key="label">中国医学科学院北京协和医学院群医学及公共卫生学院流行病与卫生统计教研室</data>
+  <data key="author">中国医学科学院北京协和医学院群医学及公共卫生学院流行病与卫生统计教研室</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="21">
+  <data key="name">华中科技大学新闻与信息传播学院</data>
+  <data key="label">华中科技大学新闻与信息传播学院</data>
+  <data key="author">华中科技大学新闻与信息传播学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="22">
+  <data key="name">上海浦东发展银行</data>
+  <data key="label">上海浦东发展银行</data>
+  <data key="author">上海浦东发展银行</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="23">
+  <data key="name">中国社会科学院农村发展研究所</data>
+  <data key="label">中国社会科学院农村发展研究所</data>
+  <data key="author">中国社会科学院农村发展研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="24">
+  <data key="name">中国社会科学院经济研究所</data>
+  <data key="label">中国社会科学院经济研究所</data>
+  <data key="author">中国社会科学院经济研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="25">
+  <data key="name">华东师范大学公共管理学院</data>
+  <data key="label">华东师范大学公共管理学院</data>
+  <data key="author">华东师范大学公共管理学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="26">
+  <data key="name">陕西师范大学数学与信息科学学院</data>
+  <data key="label">陕西师范大学数学与信息科学学院</data>
+  <data key="author">陕西师范大学数学与信息科学学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="27">
+  <data key="name">华中科技大学同济医学院附属协和医院</data>
+  <data key="label">华中科技大学同济医学院附属协和医院</data>
+  <data key="author">华中科技大学同济医学院附属协和医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="28">
+  <data key="name">中央财经大学会计学院</data>
+  <data key="label">中央财经大学会计学院</data>
+  <data key="author">中央财经大学会计学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="29">
+  <data key="name">上海对外经贸大学国际经贸学院</data>
+  <data key="label">上海对外经贸大学国际经贸学院</data>
+  <data key="author">上海对外经贸大学国际经贸学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="30">
+  <data key="name">深圳市宝安区中医院针灸科</data>
+  <data key="label">深圳市宝安区中医院针灸科</data>
+  <data key="author">深圳市宝安区中医院针灸科</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="31">
+  <data key="name">西南民族大学药学院</data>
+  <data key="label">西南民族大学药学院</data>
+  <data key="author">西南民族大学药学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="32">
+  <data key="name">东部战区总医院感染科肝病中心</data>
+  <data key="label">东部战区总医院感染科肝病中心</data>
+  <data key="author">东部战区总医院感染科肝病中心</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="33">
+  <data key="name">西安交通大学数学与统计学院数学与生命科学交叉中心</data>
+  <data key="label">西安交通大学数学与统计学院数学与生命科学交叉中心</data>
+  <data key="author">西安交通大学数学与统计学院数学与生命科学交叉中心</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="34">
+  <data key="name">上海国家展览中心方舱医院第四分院</data>
+  <data key="label">上海国家展览中心方舱医院第四分院</data>
+  <data key="author">上海国家展览中心方舱医院第四分院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="35">
+  <data key="name">中国石油大学(北京)外国语学院</data>
+  <data key="label">中国石油大学(北京)外国语学院</data>
+  <data key="author">中国石油大学(北京)外国语学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="36">
+  <data key="name">上海旅游高等专科学校</data>
+  <data key="label">上海旅游高等专科学校</data>
+  <data key="author">上海旅游高等专科学校</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="37">
+  <data key="name">北京大学中国药物依赖性研究所</data>
+  <data key="label">北京大学中国药物依赖性研究所</data>
+  <data key="author">北京大学中国药物依赖性研究所</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="38">
+  <data key="name">北京师范大学教育学部</data>
+  <data key="label">北京师范大学教育学部</data>
+  <data key="author">北京师范大学教育学部</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="39">
+  <data key="name">中国中医科学院</data>
+  <data key="label">中国中医科学院</data>
+  <data key="author">中国中医科学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="40">
+  <data key="name">北京大学第六医院北京大学精神卫生研究所国家卫生健康委员会精神卫生学重点实验室(北京大学)国家精神心理疾病临床医学研究中心(北京大学第六医院)</data>
+  <data key="label">北京大学第六医院北京大学精神卫生研究所国家卫生健康委员会精神卫生学重点实验室(北京大学)国家精神心理疾病临床医学研究中心(北京大学第六医院)</data>
+  <data key="author">北京大学第六医院北京大学精神卫生研究所国家卫生健康委员会精神卫生学重点实验室(北京大学)国家精神心理疾病临床医学研究中心(北京大学第六医院)</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="41">
+  <data key="name">山东大学公共卫生学院</data>
+  <data key="label">山东大学公共卫生学院</data>
+  <data key="author">山东大学公共卫生学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="42">
+  <data key="name">中国科学院科技战略咨询研究院</data>
+  <data key="label">中国科学院科技战略咨询研究院</data>
+  <data key="author">中国科学院科技战略咨询研究院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="43">
+  <data key="name">中国社会科学院财经战略研究院</data>
+  <data key="label">中国社会科学院财经战略研究院</data>
+  <data key="author">中国社会科学院财经战略研究院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="44">
+  <data key="name">中国社会科学院金融研究所</data>
+  <data key="label">中国社会科学院金融研究所</data>
+  <data key="author">中国社会科学院金融研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="45">
+  <data key="name">天津中医药大学循证医学中心</data>
+  <data key="label">天津中医药大学循证医学中心</data>
+  <data key="author">天津中医药大学循证医学中心</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="46">
+  <data key="name">中国科学院大学经济与管理学院</data>
+  <data key="label">中国科学院大学经济与管理学院</data>
+  <data key="author">中国科学院大学经济与管理学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="47">
+  <data key="name">中国地质科学院矿产资源研究所</data>
+  <data key="label">中国地质科学院矿产资源研究所</data>
+  <data key="author">中国地质科学院矿产资源研究所</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="48">
+  <data key="name">中国中医科学院针灸研究所</data>
+  <data key="label">中国中医科学院针灸研究所</data>
+  <data key="author">中国中医科学院针灸研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="49">
+  <data key="name">中国科学院大学公共政策与管理学院</data>
+  <data key="label">中国科学院大学公共政策与管理学院</data>
+  <data key="author">中国科学院大学公共政策与管理学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="50">
+  <data key="name">解放军总医院第一医学中心疾病预防控制科</data>
+  <data key="label">解放军总医院第一医学中心疾病预防控制科</data>
+  <data key="author">解放军总医院第一医学中心疾病预防控制科</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="51">
+  <data key="name">中国人民解放军海军军医大学长海医院</data>
+  <data key="label">中国人民解放军海军军医大学长海医院</data>
+  <data key="author">中国人民解放军海军军医大学长海医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="52">
+  <data key="name">北京中医药大学中药学院国家中医药管理局中药信息工程重点实验室中药制药与新药开发关键技术教育部工程研究中心</data>
+  <data key="label">北京中医药大学中药学院国家中医药管理局中药信息工程重点实验室中药制药与新药开发关键技术教育部工程研究中心</data>
+  <data key="author">北京中医药大学中药学院国家中医药管理局中药信息工程重点实验室中药制药与新药开发关键技术教育部工程研究中心</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="53">
+  <data key="name">暨南大学经济学院</data>
+  <data key="label">暨南大学经济学院</data>
+  <data key="author">暨南大学经济学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="54">
+  <data key="name">鲁东大学教育科学学院</data>
+  <data key="label">鲁东大学教育科学学院</data>
+  <data key="author">鲁东大学教育科学学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="55">
+  <data key="name">武汉大学测绘遥感信息工程国家重点实验室</data>
+  <data key="label">武汉大学测绘遥感信息工程国家重点实验室</data>
+  <data key="author">武汉大学测绘遥感信息工程国家重点实验室</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="56">
+  <data key="name">上海交通大学媒体与传播学院</data>
+  <data key="label">上海交通大学媒体与传播学院</data>
+  <data key="author">上海交通大学媒体与传播学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="57">
+  <data key="name">中国人民大学社会学系</data>
+  <data key="label">中国人民大学社会学系</data>
+  <data key="author">中国人民大学社会学系</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="58">
+  <data key="name">湖北省中西医结合医院</data>
+  <data key="label">湖北省中西医结合医院</data>
+  <data key="author">湖北省中西医结合医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="59">
+  <data key="name">南京大学地理与海洋科学学院</data>
+  <data key="label">南京大学地理与海洋科学学院</data>
+  <data key="author">南京大学地理与海洋科学学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="60">
+  <data key="name">中央财经大学金融学院</data>
+  <data key="label">中央财经大学金融学院</data>
+  <data key="author">中央财经大学金融学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="61">
+  <data key="name">吉林大学大数据管理研究中心</data>
+  <data key="label">吉林大学大数据管理研究中心</data>
+  <data key="author">吉林大学大数据管理研究中心</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="62">
+  <data key="name">上海市金山区卫生健康委/金山区医务工会</data>
+  <data key="label">上海市金山区卫生健康委/金山区医务工会</data>
+  <data key="author">上海市金山区卫生健康委/金山区医务工会</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="63">
+  <data key="name">中国人民大学新闻与社会发展研究中心</data>
+  <data key="label">中国人民大学新闻与社会发展研究中心</data>
+  <data key="author">中国人民大学新闻与社会发展研究中心</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="64">
+  <data key="name">四川农业大学管理学院</data>
+  <data key="label">四川农业大学管理学院</data>
+  <data key="author">四川农业大学管理学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="65">
+  <data key="name">中国科学院地理科学与资源研究所资源与环境信息系统国家重点实验室</data>
+  <data key="label">中国科学院地理科学与资源研究所资源与环境信息系统国家重点实验室</data>
+  <data key="author">中国科学院地理科学与资源研究所资源与环境信息系统国家重点实验室</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="66">
+  <data key="name">上海世博展馆方舱医院H2舱</data>
+  <data key="label">上海世博展馆方舱医院H2舱</data>
+  <data key="author">上海世博展馆方舱医院H2舱</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="67">
+  <data key="name">复旦大学世界经济研究所</data>
+  <data key="label">复旦大学世界经济研究所</data>
+  <data key="author">复旦大学世界经济研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="68">
+  <data key="name">中华医学会呼吸病学分会呼吸治疗学组</data>
+  <data key="label">中华医学会呼吸病学分会呼吸治疗学组</data>
+  <data key="author">中华医学会呼吸病学分会呼吸治疗学组</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="69">
+  <data key="name">海南大学管理学院</data>
+  <data key="label">海南大学管理学院</data>
+  <data key="author">海南大学管理学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="70">
+  <data key="name">中国科学院地理科学与资源研究所区域可持续发展分析与模拟重点实验室</data>
+  <data key="label">中国科学院地理科学与资源研究所区域可持续发展分析与模拟重点实验室</data>
+  <data key="author">中国科学院地理科学与资源研究所区域可持续发展分析与模拟重点实验室</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="71">
+  <data key="name">中南大学湘雅医院医院感染控制中心</data>
+  <data key="label">中南大学湘雅医院医院感染控制中心</data>
+  <data key="author">中南大学湘雅医院医院感染控制中心</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="72">
+  <data key="name">哈尔滨医科大学</data>
+  <data key="label">哈尔滨医科大学</data>
+  <data key="author">哈尔滨医科大学</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="73">
+  <data key="name">中国人民大学劳动人事学院</data>
+  <data key="label">中国人民大学劳动人事学院</data>
+  <data key="author">中国人民大学劳动人事学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="74">
+  <data key="name">中国中医科学院中药研究所</data>
+  <data key="label">中国中医科学院中药研究所</data>
+  <data key="author">中国中医科学院中药研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="75">
+  <data key="name">中国信息通信研究院信息化与工业化融合研究所</data>
+  <data key="label">中国信息通信研究院信息化与工业化融合研究所</data>
+  <data key="author">中国信息通信研究院信息化与工业化融合研究所</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="76">
+  <data key="name">中日友好医院</data>
+  <data key="label">中日友好医院</data>
+  <data key="author">中日友好医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="77">
+  <data key="name">中国医学科学院北京协和医学院医学信息研究所</data>
+  <data key="label">中国医学科学院北京协和医学院医学信息研究所</data>
+  <data key="author">中国医学科学院北京协和医学院医学信息研究所</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="78">
+  <data key="name">国家卫生健康委卫生发展研究中心</data>
+  <data key="label">国家卫生健康委卫生发展研究中心</data>
+  <data key="author">国家卫生健康委卫生发展研究中心</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="79">
+  <data key="name">中南大学公共管理学院</data>
+  <data key="label">中南大学公共管理学院</data>
+  <data key="author">中南大学公共管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="80">
+  <data key="name">中南大学湘雅医院</data>
+  <data key="label">中南大学湘雅医院</data>
+  <data key="author">中南大学湘雅医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="81">
+  <data key="name">中北大学软件学院</data>
+  <data key="label">中北大学软件学院</data>
+  <data key="author">中北大学软件学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="82">
+  <data key="name">西安医学院附属第一医院</data>
+  <data key="label">西安医学院附属第一医院</data>
+  <data key="author">西安医学院附属第一医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="83">
+  <data key="name">四川大学华西医院护理部</data>
+  <data key="label">四川大学华西医院护理部</data>
+  <data key="author">四川大学华西医院护理部</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="84">
+  <data key="name">东南大学能源与环境学院</data>
+  <data key="label">东南大学能源与环境学院</data>
+  <data key="author">东南大学能源与环境学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="85">
+  <data key="name">首都医科大学附属北京中医医院</data>
+  <data key="label">首都医科大学附属北京中医医院</data>
+  <data key="author">首都医科大学附属北京中医医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">10</data>
+</node>
+<node id="86">
+  <data key="name">吉林大学计算机科学与技术学院</data>
+  <data key="label">吉林大学计算机科学与技术学院</data>
+  <data key="author">吉林大学计算机科学与技术学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="87">
+  <data key="name">上海对外经贸大学会计学院</data>
+  <data key="label">上海对外经贸大学会计学院</data>
+  <data key="author">上海对外经贸大学会计学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="88">
+  <data key="name">天津中医药大学第一附属医院</data>
+  <data key="label">天津中医药大学第一附属医院</data>
+  <data key="author">天津中医药大学第一附属医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="89">
+  <data key="name">广东外语外贸大学经济贸易学院</data>
+  <data key="label">广东外语外贸大学经济贸易学院</data>
+  <data key="author">广东外语外贸大学经济贸易学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="90">
+  <data key="name">上海体育学院</data>
+  <data key="label">上海体育学院</data>
+  <data key="author">上海体育学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="91">
+  <data key="name">华东理工大学商学院</data>
+  <data key="label">华东理工大学商学院</data>
+  <data key="author">华东理工大学商学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="92">
+  <data key="name">北京师范大学体育与运动学院</data>
+  <data key="label">北京师范大学体育与运动学院</data>
+  <data key="author">北京师范大学体育与运动学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="93">
+  <data key="name">中国社会科学院大学</data>
+  <data key="label">中国社会科学院大学</data>
+  <data key="author">中国社会科学院大学</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="94">
+  <data key="name">中国社会科学院世界经济与政治研究所</data>
+  <data key="label">中国社会科学院世界经济与政治研究所</data>
+  <data key="author">中国社会科学院世界经济与政治研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="95">
+  <data key="name">上海应用技术大学经济与管理学院</data>
+  <data key="label">上海应用技术大学经济与管理学院</data>
+  <data key="author">上海应用技术大学经济与管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="96">
+  <data key="name">中国中医科学院广安门医院</data>
+  <data key="label">中国中医科学院广安门医院</data>
+  <data key="author">中国中医科学院广安门医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="97">
+  <data key="name">吉林大学东北振兴研究院</data>
+  <data key="label">吉林大学东北振兴研究院</data>
+  <data key="author">吉林大学东北振兴研究院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="98">
+  <data key="name">南京大学经济学院</data>
+  <data key="label">南京大学经济学院</data>
+  <data key="author">南京大学经济学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="99">
+  <data key="name">中山大学药学院</data>
+  <data key="label">中山大学药学院</data>
+  <data key="author">中山大学药学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="100">
+  <data key="name">中国社会科学院数量经济与技术经济研究所</data>
+  <data key="label">中国社会科学院数量经济与技术经济研究所</data>
+  <data key="author">中国社会科学院数量经济与技术经济研究所</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="101">
+  <data key="name">南京师范大学地理科学学院/江苏省地理信息资源开发与利用协同创新中心</data>
+  <data key="label">南京师范大学地理科学学院/江苏省地理信息资源开发与利用协同创新中心</data>
+  <data key="author">南京师范大学地理科学学院/江苏省地理信息资源开发与利用协同创新中心</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="102">
+  <data key="name">中国人民大学新闻学院</data>
+  <data key="label">中国人民大学新闻学院</data>
+  <data key="author">中国人民大学新闻学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="103">
+  <data key="name">中国旅游研究院旅游安全研究基地</data>
+  <data key="label">中国旅游研究院旅游安全研究基地</data>
+  <data key="author">中国旅游研究院旅游安全研究基地</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="104">
+  <data key="name">首都经济贸易大学劳动经济学院</data>
+  <data key="label">首都经济贸易大学劳动经济学院</data>
+  <data key="author">首都经济贸易大学劳动经济学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="105">
+  <data key="name">中国科学院大学资源与环境学院</data>
+  <data key="label">中国科学院大学资源与环境学院</data>
+  <data key="author">中国科学院大学资源与环境学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="106">
+  <data key="name">南京工业大学经济与管理学院</data>
+  <data key="label">南京工业大学经济与管理学院</data>
+  <data key="author">南京工业大学经济与管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="107">
+  <data key="name">北京体育大学心理学院</data>
+  <data key="label">北京体育大学心理学院</data>
+  <data key="author">北京体育大学心理学院</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="108">
+  <data key="name">天津中医药大学</data>
+  <data key="label">天津中医药大学</data>
+  <data key="author">天津中医药大学</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="109">
+  <data key="name">北京大学公共卫生学院流行病与卫生统计学系</data>
+  <data key="label">北京大学公共卫生学院流行病与卫生统计学系</data>
+  <data key="author">北京大学公共卫生学院流行病与卫生统计学系</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="110">
+  <data key="name">上海财经大学会计与财务研究院</data>
+  <data key="label">上海财经大学会计与财务研究院</data>
+  <data key="author">上海财经大学会计与财务研究院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="111">
+  <data key="name">上海财经大学金融学院</data>
+  <data key="label">上海财经大学金融学院</data>
+  <data key="author">上海财经大学金融学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="112">
+  <data key="name">上海交通大学公共卫生学院</data>
+  <data key="label">上海交通大学公共卫生学院</data>
+  <data key="author">上海交通大学公共卫生学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="113">
+  <data key="name">上海市金山区精神卫生中心办公室</data>
+  <data key="label">上海市金山区精神卫生中心办公室</data>
+  <data key="author">上海市金山区精神卫生中心办公室</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="114">
+  <data key="name">三峡大学校医院</data>
+  <data key="label">三峡大学校医院</data>
+  <data key="author">三峡大学校医院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="115">
+  <data key="name">杭州电子科技大学会计学院</data>
+  <data key="label">杭州电子科技大学会计学院</data>
+  <data key="author">杭州电子科技大学会计学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="116">
+  <data key="name">中华女子学院社会工作学院</data>
+  <data key="label">中华女子学院社会工作学院</data>
+  <data key="author">中华女子学院社会工作学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="117">
+  <data key="name">上海国际金融与经济研究院</data>
+  <data key="label">上海国际金融与经济研究院</data>
+  <data key="author">上海国际金融与经济研究院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="118">
+  <data key="name">中国农业科学院农业经济与发展研究所</data>
+  <data key="label">中国农业科学院农业经济与发展研究所</data>
+  <data key="author">中国农业科学院农业经济与发展研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">6</data>
+</node>
+<node id="119">
+  <data key="name">上海师范大学旅游学院</data>
+  <data key="label">上海师范大学旅游学院</data>
+  <data key="author">上海师范大学旅游学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="120">
+  <data key="name">上海立信会计金融学院</data>
+  <data key="label">上海立信会计金融学院</data>
+  <data key="author">上海立信会计金融学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="121">
+  <data key="name">信息工程大学地理空间信息学院</data>
+  <data key="label">信息工程大学地理空间信息学院</data>
+  <data key="author">信息工程大学地理空间信息学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="122">
+  <data key="name">上海政法学院经济管理学院</data>
+  <data key="label">上海政法学院经济管理学院</data>
+  <data key="author">上海政法学院经济管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="123">
+  <data key="name">同济大学经济与管理学院</data>
+  <data key="label">同济大学经济与管理学院</data>
+  <data key="author">同济大学经济与管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="124">
+  <data key="name">中国医科大学附属第一医院</data>
+  <data key="label">中国医科大学附属第一医院</data>
+  <data key="author">中国医科大学附属第一医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="125">
+  <data key="name">中国社会科学院亚太与全球战略研究院</data>
+  <data key="label">中国社会科学院亚太与全球战略研究院</data>
+  <data key="author">中国社会科学院亚太与全球战略研究院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="126">
+  <data key="name">湖南中医药大学第一附属医院</data>
+  <data key="label">湖南中医药大学第一附属医院</data>
+  <data key="author">湖南中医药大学第一附属医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="127">
+  <data key="name">北京中医药大学中药学院</data>
+  <data key="label">北京中医药大学中药学院</data>
+  <data key="author">北京中医药大学中药学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="128">
+  <data key="name">北京师范大学经济与资源管理研究院</data>
+  <data key="label">北京师范大学经济与资源管理研究院</data>
+  <data key="author">北京师范大学经济与资源管理研究院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="129">
+  <data key="name">中华中医药学会肺系病分会</data>
+  <data key="label">中华中医药学会肺系病分会</data>
+  <data key="author">中华中医药学会肺系病分会</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="130">
+  <data key="name">清华大学教育研究院</data>
+  <data key="label">清华大学教育研究院</data>
+  <data key="author">清华大学教育研究院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="131">
+  <data key="name">华中科技大学同济医学院医药卫生管理学院</data>
+  <data key="label">华中科技大学同济医学院医药卫生管理学院</data>
+  <data key="author">华中科技大学同济医学院医药卫生管理学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="132">
+  <data key="name">西安交通大学经济与金融学院</data>
+  <data key="label">西安交通大学经济与金融学院</data>
+  <data key="author">西安交通大学经济与金融学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="133">
+  <data key="name">石河子大学师范学院</data>
+  <data key="label">石河子大学师范学院</data>
+  <data key="author">石河子大学师范学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="134">
+  <data key="name">四川大学华西护理学院</data>
+  <data key="label">四川大学华西护理学院</data>
+  <data key="author">四川大学华西护理学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="135">
+  <data key="name">北京大学前沿交叉学科研究院北大-清华生命科学联合中心</data>
+  <data key="label">北京大学前沿交叉学科研究院北大-清华生命科学联合中心</data>
+  <data key="author">北京大学前沿交叉学科研究院北大-清华生命科学联合中心</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="136">
+  <data key="name">吉林大学管理学院</data>
+  <data key="label">吉林大学管理学院</data>
+  <data key="author">吉林大学管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="137">
+  <data key="name">中共江苏省委党校社会和文化教研部</data>
+  <data key="label">中共江苏省委党校社会和文化教研部</data>
+  <data key="author">中共江苏省委党校社会和文化教研部</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="138">
+  <data key="name">河南中医药大学</data>
+  <data key="label">河南中医药大学</data>
+  <data key="author">河南中医药大学</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">7</data>
+</node>
+<node id="139">
+  <data key="name">北京中医药大学东直门医院</data>
+  <data key="label">北京中医药大学东直门医院</data>
+  <data key="author">北京中医药大学东直门医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="140">
+  <data key="name">沈阳航空航天大学经济与管理学院</data>
+  <data key="label">沈阳航空航天大学经济与管理学院</data>
+  <data key="author">沈阳航空航天大学经济与管理学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="141">
+  <data key="name">中国中医科学院中医临床基础医学研究所</data>
+  <data key="label">中国中医科学院中医临床基础医学研究所</data>
+  <data key="author">中国中医科学院中医临床基础医学研究所</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="142">
+  <data key="name">浙江大学医学院附属第一医院</data>
+  <data key="label">浙江大学医学院附属第一医院</data>
+  <data key="author">浙江大学医学院附属第一医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="143">
+  <data key="name">哈尔滨理工大学高新技术产业发展研究中心</data>
+  <data key="label">哈尔滨理工大学高新技术产业发展研究中心</data>
+  <data key="author">哈尔滨理工大学高新技术产业发展研究中心</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="144">
+  <data key="name">安徽大学经济学院</data>
+  <data key="label">安徽大学经济学院</data>
+  <data key="author">安徽大学经济学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="145">
+  <data key="name">湖北中医药大学</data>
+  <data key="label">湖北中医药大学</data>
+  <data key="author">湖北中医药大学</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="146">
+  <data key="name">上海市金山区精神卫生中心防治科</data>
+  <data key="label">上海市金山区精神卫生中心防治科</data>
+  <data key="author">上海市金山区精神卫生中心防治科</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="147">
+  <data key="name">复旦大学附属中山医院</data>
+  <data key="label">复旦大学附属中山医院</data>
+  <data key="author">复旦大学附属中山医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="148">
+  <data key="name">复旦大学经济学院</data>
+  <data key="label">复旦大学经济学院</data>
+  <data key="author">复旦大学经济学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="149">
+  <data key="name">东北财经大学产业组织与企业组织研究中心</data>
+  <data key="label">东北财经大学产业组织与企业组织研究中心</data>
+  <data key="author">东北财经大学产业组织与企业组织研究中心</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="150">
+  <data key="name">东部战区总医院呼吸内科</data>
+  <data key="label">东部战区总医院呼吸内科</data>
+  <data key="author">东部战区总医院呼吸内科</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="151">
+  <data key="name">中国科学院大学</data>
+  <data key="label">中国科学院大学</data>
+  <data key="author">中国科学院大学</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">9</data>
+</node>
+<node id="152">
+  <data key="name">中国人民大学国家发展与战略研究院</data>
+  <data key="label">中国人民大学国家发展与战略研究院</data>
+  <data key="author">中国人民大学国家发展与战略研究院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="153">
+  <data key="name">广州中医药大学第二临床医学院</data>
+  <data key="label">广州中医药大学第二临床医学院</data>
+  <data key="author">广州中医药大学第二临床医学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="154">
+  <data key="name">北京中医药大学</data>
+  <data key="label">北京中医药大学</data>
+  <data key="author">北京中医药大学</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">5</data>
+</node>
+<node id="155">
+  <data key="name">三峡大学医学院</data>
+  <data key="label">三峡大学医学院</data>
+  <data key="author">三峡大学医学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="156">
+  <data key="name">湖北省中医院</data>
+  <data key="label">湖北省中医院</data>
+  <data key="author">湖北省中医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="157">
+  <data key="name">华中科技大学同济医学院附属同济医院护理部</data>
+  <data key="label">华中科技大学同济医学院附属同济医院护理部</data>
+  <data key="author">华中科技大学同济医学院附属同济医院护理部</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="158">
+  <data key="name">吉林大学网络空间治理研究中心</data>
+  <data key="label">吉林大学网络空间治理研究中心</data>
+  <data key="author">吉林大学网络空间治理研究中心</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="159">
+  <data key="name">新旧动能转换与黄河流域青少年心理健康协同创新中心[鲁东大学]</data>
+  <data key="label">新旧动能转换与黄河流域青少年心理健康协同创新中心[鲁东大学]</data>
+  <data key="author">新旧动能转换与黄河流域青少年心理健康协同创新中心[鲁东大学]</data>
+  <data key="year">2024</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="160">
+  <data key="name">山东科技大学经济管理学院</data>
+  <data key="label">山东科技大学经济管理学院</data>
+  <data key="author">山东科技大学经济管理学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="161">
+  <data key="name">华东师范大学教育学部</data>
+  <data key="label">华东师范大学教育学部</data>
+  <data key="author">华东师范大学教育学部</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="162">
+  <data key="name">哈尔滨理工大学经济与管理学院</data>
+  <data key="label">哈尔滨理工大学经济与管理学院</data>
+  <data key="author">哈尔滨理工大学经济与管理学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="163">
+  <data key="name">北京大学公共卫生学院</data>
+  <data key="label">北京大学公共卫生学院</data>
+  <data key="author">北京大学公共卫生学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="164">
+  <data key="name">北京大学第一医院感染管理-疾病预防控制处</data>
+  <data key="label">北京大学第一医院感染管理-疾病预防控制处</data>
+  <data key="author">北京大学第一医院感染管理-疾病预防控制处</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="165">
+  <data key="name">中国人民大学信息资源管理学院</data>
+  <data key="label">中国人民大学信息资源管理学院</data>
+  <data key="author">中国人民大学信息资源管理学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="166">
+  <data key="name">上海体育学院经济管理学院</data>
+  <data key="label">上海体育学院经济管理学院</data>
+  <data key="author">上海体育学院经济管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="167">
+  <data key="name">中国农业大学经济管理学院</data>
+  <data key="label">中国农业大学经济管理学院</data>
+  <data key="author">中国农业大学经济管理学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="168">
+  <data key="name">山东师范大学地理与环境学院</data>
+  <data key="label">山东师范大学地理与环境学院</data>
+  <data key="author">山东师范大学地理与环境学院</data>
+  <data key="year">2023</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="169">
+  <data key="name">中国人民大学公共管理学院</data>
+  <data key="label">中国人民大学公共管理学院</data>
+  <data key="author">中国人民大学公共管理学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="170">
+  <data key="name">北京大学第三医院呼吸与危重症医学科</data>
+  <data key="label">北京大学第三医院呼吸与危重症医学科</data>
+  <data key="author">北京大学第三医院呼吸与危重症医学科</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="171">
+  <data key="name">南开大学经济学院</data>
+  <data key="label">南开大学经济学院</data>
+  <data key="author">南开大学经济学院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">3</data>
+</node>
+<node id="172">
+  <data key="name">广东省中医院</data>
+  <data key="label">广东省中医院</data>
+  <data key="author">广东省中医院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">4</data>
+</node>
+<node id="173">
+  <data key="name">中国现代国际关系研究院</data>
+  <data key="label">中国现代国际关系研究院</data>
+  <data key="author">中国现代国际关系研究院</data>
+  <data key="year">2020</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="174">
+  <data key="name">东南大学经济管理学院</data>
+  <data key="label">东南大学经济管理学院</data>
+  <data key="author">东南大学经济管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<node id="175">
+  <data key="name">东南大学公共卫生学院</data>
+  <data key="label">东南大学公共卫生学院</data>
+  <data key="author">东南大学公共卫生学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="176">
+  <data key="name">上海大学管理学院</data>
+  <data key="label">上海大学管理学院</data>
+  <data key="author">上海大学管理学院</data>
+  <data key="year">2021</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="177">
+  <data key="name">东北财经大学管理科学与工程学院</data>
+  <data key="label">东北财经大学管理科学与工程学院</data>
+  <data key="author">东北财经大学管理科学与工程学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">1</data>
+</node>
+<node id="178">
+  <data key="name">清华大学万科公共卫生与健康学院</data>
+  <data key="label">清华大学万科公共卫生与健康学院</data>
+  <data key="author">清华大学万科公共卫生与健康学院</data>
+  <data key="year">2022</data>
+  <data key="title">...</data>
+  <data key="so">SO</data>
+  <data key="vol">0</data>
+  <data key="page">0</data>
+  <data key="ut"></data>
+  <data key="freq">2</data>
+</node>
+<edge source="0" target="157">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="1" target="103">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="3" target="110">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="4" target="51">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="4" target="68">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="4" target="76">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="4" target="80">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="4" target="82">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="4" target="124">
+  <data key="weight">0.8944271802902222</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="4" target="142">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="4" target="147">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="7" target="37">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="7" target="135">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="7" target="163">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="8" target="83">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="8" target="134">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="9" target="48">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="11" target="112">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="12" target="101">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="12" target="168">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="13" target="105">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="13" target="167">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="15" target="30">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="15" target="153">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="15" target="172">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="16" target="139">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="16" target="154">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="18" target="27">
+  <data key="weight">0.16903084516525269</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="18" target="45">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="18" target="58">
+  <data key="weight">0.4000000059604645</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="18" target="85">
+  <data key="weight">0.5656854510307312</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="18" target="96">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="18" target="108">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="18" target="172">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="19" target="55">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="19" target="65">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="19" target="151">
+  <data key="weight">0.2182178944349289</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="19" target="169">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="22" target="67">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="23" target="93">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="26" target="33">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="27" target="85">
+  <data key="weight">0.11952286213636398</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="30" target="153">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="30" target="172">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="32" target="34">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="32" target="66">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="32" target="150">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="34" target="66">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="34" target="150">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="36" target="119">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="37" target="135">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="37" target="163">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="39" target="48">
+  <data key="weight">0.26726123690605164</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="39" target="85">
+  <data key="weight">0.11952286213636398</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="39" target="96">
+  <data key="weight">0.16903084516525269</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="39" target="126">
+  <data key="weight">0.4364357888698578</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="39" target="145">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="39" target="156">
+  <data key="weight">0.18898223340511322</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="41" target="161">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="42" target="49">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="42" target="128">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="42" target="151">
+  <data key="weight">0.18898223340511322</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="43" target="93">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="45" target="85">
+  <data key="weight">0.2828427255153656</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="45" target="96">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="48" target="126">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="48" target="145">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="49" target="128">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="51" target="68">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="51" target="76">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="51" target="80">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="51" target="82">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="51" target="124">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="52" target="99">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="54" target="104">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="54" target="107">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="54" target="159">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="58" target="85">
+  <data key="weight">0.4242640733718872</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="58" target="108">
+  <data key="weight">0.6000000238418579</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="60" target="152">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="61" target="86">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="61" target="97">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="61" target="136">
+  <data key="weight">0.8944271802902222</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="61" target="158">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="62" target="113">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="62" target="146">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="63" target="102">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="65" target="105">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="65" target="151">
+  <data key="weight">0.33806169033050537</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="66" target="150">
+  <data key="weight">1.0</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="67" target="117">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="67" target="148">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="68" target="76">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="68" target="80">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="68" target="82">
+  <data key="weight">1.0</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="68" target="124">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="68" target="142">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="68" target="147">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="69" target="91">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="70" target="105">
+  <data key="weight">0.6324555277824402</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="71" target="164">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="74" target="141">
+  <data key="weight">0.5163977742195129</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="74" target="172">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="76" target="80">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="76" target="82">
+  <data key="weight">0.8164966106414795</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="76" target="124">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="76" target="142">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="76" target="147">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="80" target="82">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="80" target="124">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="80" target="142">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="80" target="147">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="82" target="124">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="82" target="142">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="82" target="147">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="83" target="134">
+  <data key="weight">0.6666666865348816</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="85" target="96">
+  <data key="weight">0.2828427255153656</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="85" target="108">
+  <data key="weight">0.4242640733718872</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="85" target="127">
+  <data key="weight">0.15811388194561005</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="85" target="141">
+  <data key="weight">0.18257418274879456</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="85" target="156">
+  <data key="weight">0.15811388194561005</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="85" target="172">
+  <data key="weight">0.3651483654975891</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="86" target="97">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="86" target="136">
+  <data key="weight">0.3162277638912201</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="86" target="158">
+  <data key="weight">0.3535533845424652</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="87" target="176">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="94" target="173">
+  <data key="weight">0.5</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="96" target="145">
+  <data key="weight">0.20000000298023224</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="96" target="154">
+  <data key="weight">2.000000165480742E-7</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="96" target="156">
+  <data key="weight">0.22360679507255554</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="96" target="172">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="97" target="136">
+  <data key="weight">0.7745966911315918</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="97" target="158">
+  <data key="weight">0.8660253882408142</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="101" target="168">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="104" target="107">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="104" target="159">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="106" target="174">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="107" target="159">
+  <data key="weight">1.0</data>
+  <data key="slice">4</data>
+  <data key="year">2024</data>
+</edge>
+<edge source="109" target="178">
+  <data key="weight">0.5</data>
+  <data key="slice">2</data>
+  <data key="year">2022</data>
+</edge>
+<edge source="113" target="146">
+  <data key="weight">1.0</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="122" target="123">
+  <data key="weight">0.7071067690849304</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="124" target="142">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="124" target="147">
+  <data key="weight">0.5773502588272095</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="126" target="145">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="127" target="141">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="127" target="156">
+  <data key="weight">0.25</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="132" target="166">
+  <data key="weight">0.40824830532073975</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="135" target="163">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="136" target="158">
+  <data key="weight">0.8944271802902222</data>
+  <data key="slice">1</data>
+  <data key="year">2021</data>
+</edge>
+<edge source="139" target="154">
+  <data key="weight">0.25819888710975647</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="140" target="160">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="141" target="156">
+  <data key="weight">0.28867512941360474</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="142" target="147">
+  <data key="weight">0.3333333432674408</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="143" target="162">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+<edge source="145" target="156">
+  <data key="weight">0.670820415019989</data>
+  <data key="slice">0</data>
+  <data key="year">2020</data>
+</edge>
+<edge source="153" target="172">
+  <data key="weight">1.0</data>
+  <data key="slice">3</data>
+  <data key="year">2023</data>
+</edge>
+</graph>
+</graphml>
